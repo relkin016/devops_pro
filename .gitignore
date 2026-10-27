@@ -1,0 +1,5 @@
+# Локальные файлы с учётными данными — не коммитить
+.mega
+CLAUDE.md
+node_modules/
+.DS_Store
